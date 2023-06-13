@@ -43,7 +43,7 @@ public class Controler extends JFrame {
 	private ConsolePanel    consPanel;
 	
 	public Controler() {
-		super("Console");
+		super("J'é changé le non");
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setSize(new Dimension(800, 600));
 		this.setMinimumSize(new Dimension(400, 400));
